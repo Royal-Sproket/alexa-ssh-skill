@@ -1,1 +1,0 @@
-Your personal data is not attached to this Alexa skill. No data from this skill is transferred to any servers, except for the SSH servers that you might ssh into, which are not owned by us.
